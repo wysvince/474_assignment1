@@ -1,9 +1,10 @@
-**Assignment 1**
+#Assignment 1
 
-*Part 1: Create datapath elements*
+~~#Part 1: Create datapath elements~~
 
 
-*Part 2: Latency Estimation of Datapath Component Library*
+#Part 2: Latency Estimation of Datapath Component Library
+
 Using Xilinx Vivado, synthesize each component using different settings for the DATAWIDTH parameter,
 including sizes of 2, 8, 16, 32, and 64.
 Select the Xilinx Artix-7 FPGA (XC7A100T) as the target device.
