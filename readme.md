@@ -14,3 +14,5 @@ Create a text file named DPCL_LAT.txt that includes a table describing the resul
 times using the following format:
 ComponentName : Latency2bit Latency8bit Latency16bit Latency32bit
 Latency64bit
+
+testing...........................
